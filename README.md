@@ -9,4 +9,3 @@ This is a GitHub Pages ready static portfolio website.
 
 Contact links included:
 - Email: jayathi2031@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jayathi-kashilanka-0a27251b9/
